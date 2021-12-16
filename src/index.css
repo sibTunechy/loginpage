@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: "Open Sans Condensed", sans-serif;
+  padding: 0;
+  height: 100vh;
+  background-color: rgba(192, 187, 192, 0.667);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
